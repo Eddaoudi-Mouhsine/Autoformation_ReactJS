@@ -1,0 +1,15 @@
+.Machine{
+    border :2px solid black;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.Machine-win{
+    background-color:green;
+}
+.Machine-loss{
+    background-color:red;
+}
